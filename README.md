@@ -7,3 +7,4 @@
   Error handlers to handle various error scenarios as a results of HTTP Requests made by clients.
   Use of flask-httpauth flask extension for securing the API.
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WycliffeMuchumi)](https://github.com/WycliffeMuchumi/github-readme-stats)
